@@ -1,0 +1,32 @@
+img{
+    width: 100%;
+  }
+  
+  .post-container{
+    width: 200px;
+    height: 350px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgb(190, 190, 190);
+    transition: transform 200ms ease-in-out;
+    
+  }
+  
+  .post-container:hover{
+    transform: scale(1.05);
+  }
+  
+h2{
+    width:100%;
+    font-size:13px;
+}
+
+  p{
+    width: 100%;
+    font-size:8px;
+  }
+
+  .post{
+    padding: 10px 30px;
+    
+    
+  }
