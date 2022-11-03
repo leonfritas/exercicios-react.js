@@ -2,12 +2,12 @@
 <p>Página desenvolvida apenas com o intuito de aprimorar conhecimentos em React.js, consumo de API, componentização, hooks de estado etc.</p>
 <p>Esta página consome uma API de posts, contém um botão e um input de search para filtar os posts pelo título.</p>
 
-<h4>Foi utilizado até então:</h4>
-- Components de classe
-- Style CSS
-- Consumo de API
+<ul><strong>Foi utilizado até então:</strong></ul>
+<li> Components de classe</li>
+<li> Style CSS</li>
+<li> Consumo de API</li>
 
-<ul><b>Será implementado:</b></ul>
+<ul><strong>Será implementado:</strong></ul>
 <li> Hooks de estado </li>
 <li> Styled Components</li>
 <li> Context API</li>
