@@ -7,8 +7,12 @@
 - Style CSS
 - Consumo de API
 
-<h4>Será implementado:</h4>
-- Hooks de estado
-- Styled Components
-- Context API
-- Sistema de Rotas
+<ul><b>Será implementado:</b></ul>
+<li> Hooks de estado </li>
+<li> Styled Components</li>
+<li> Context API</li>
+<li> Sistema de Rotas</li>
+
+
+
+![exercicio-react js](https://user-images.githubusercontent.com/102994125/199766992-e247e71d-7d3d-4d2d-afc5-4fa44a747394.gif)
